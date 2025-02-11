@@ -5,4 +5,4 @@ un test par rapport a l'implémentation du local au hub --> docu sur le tigre du
 \Le tigre est tres dangereux
 
 \il tue beaucoup de monde
-\c'est impossible d'en vaincre un, ils sont trop puissant contre un humain.
+\c'est impossible d'en vaincre un, ils sont trop puissant comparé à un humain.
