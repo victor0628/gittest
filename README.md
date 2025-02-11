@@ -6,4 +6,5 @@ un test par rapport a l'implémentation du local au hub --> docu sur le tigre du
 <br>Le tigre est tres dangereux</br>
 
 <br>il tue beaucoup de monde</br>
-<br>c'est impossible d'en vaincre un car ils sont trop puissant comparé à un humain.</br>
+<br>c'est impossible d'en vaincre un</br>
+<br>ils sont trop puissant comparé à un humain.</br>
